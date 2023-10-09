@@ -72,6 +72,10 @@
 // }
 // multiply(num1,num2)
 
+//wrte a simple progaram that calculates your
+//salary and tax if salary is 500 and tax is 20
+//what is the take home salary
+
 
 // let salary = 500;
 // let tax = 20; 
@@ -80,6 +84,17 @@
 
 
 
+
+// if we have 1000 laptops and 1009 bags 
+//how many bags remain if you put each laptop
+//is put in one bag each.
+
+
+
+let totallaptop = 1000 
+let totalbags = 1009
+ let remainder = totalbags %  totallaptop
+ console.log(remainder)
 
 
 
