@@ -2,14 +2,14 @@
 // // write a for loop that prints your name 20 times
 
 // for(let i = 0; i < 20; i++) {
-//     console.log("Ahmed")
+//     console.log("hibaq")
 // }
 
 
 // // write a while that prints your surname 20 times
 // let i = 0;
 // while (i < 20) {
-//     console.log("Dini");
+//     console.log("mohamud");
 //     i++;
 // }
 
@@ -54,26 +54,29 @@
  
 
 
-function multiply (num1,num2) { 
-    let result = num1 * num2;
-    return result;
-}
+// function multiply (num1,num2) { 
+    // let result = num1 * num2;
+    // return result;
+// }
 
- let sum = multiply (5,6)
-console.log(sum)
-
-
+//  let sum = multiply (5,6)
+// console.log(sum)
 
 
 
-function multiply(num1,num2) {
-    let result = num1 * num2;
-    return result; 
-}
-multiply(num1,num2)
 
 
+// function multiply(num1,num2) {
+//     let result = num1 * num2;
+//     return result; 
+// }
+// multiply(num1,num2)
 
+
+// let salary = 500;
+// let tax = 20; 
+// let takeHomeSalary = salary - tax;
+// console.log('Your Take Home Salary Is ' + takeHomeSalary)
 
 
 
